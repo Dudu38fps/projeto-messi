@@ -38,13 +38,13 @@ img {
 }
 
 img.pq {
-    max-width: 350px;
+    max-width: 300px;
     display: block;
     margin: auto;
 }
 
 main {
-    min-width: 350px;
+    min-width: 300px;
     max-width: 900px;
    margin: auto;
    background-color: #FFFFFF;
